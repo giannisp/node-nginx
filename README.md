@@ -8,5 +8,5 @@ Hosted at [DockerHub](https://hub.docker.com/r/giannisp/node-nginx/).
 ### Features
 
 - Alpine base image
-- Node 8.9.3
+- Node 8.11.3
 - Nginx
